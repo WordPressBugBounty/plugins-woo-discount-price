@@ -2,7 +2,7 @@
 Contributors: wpnetworkit, cristianozanca
 Tags: woocommerce, e-commerce, shop, price, discount, cart, basket, checkout, prezzo, carrello, sconto, scontato, e-shop
 Requires at least: 5.0
-Tested up to: 6.5
+Tested up to: 6.7
 Requires PHP: 7.4
 Stable tag: 1.3.9
 License: GPLv2 or later
@@ -18,6 +18,9 @@ At the end of the cart and of the checkout page diplays the total amount of mone
 Thanks to Rodolfo Melogli, Bülent Sakarya, Daniel Pataki, Scott Bolinger.
 
 == Changelog ==
+
+= 1.4.0 =
+* WP 6.7
 
 = 1.3.9 =
 * WP 6.5
