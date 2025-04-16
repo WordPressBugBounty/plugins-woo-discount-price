@@ -3,7 +3,7 @@
  * Plugin Name: Discount and regular price cart and checkout page display WooCommerce
  * Plugin URI:  https://wpnetwork.it/shop/woocommerce-discount-price-premium/
  * Description: display the regular and discounted price in cart and checkout page
- * Version:     1.4.0
+ * Version:     1.4.2
  * Contributors: wpnetworkit, cristianozanca
  * Author:      wpnetworkit
  * Author URI:  https://wpnetwork.it
@@ -12,7 +12,7 @@
  * Text Domain: woo-discount-price
  * Domain Path: /languages
  * WC requires at least: 7.0
- * WC tested up to: 8.7
+ * WC tested up to: 9.8
 */
 
 
